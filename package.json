@@ -1,0 +1,17 @@
+{
+  "name": "bunq-chat",
+  "version": "1.0.0",
+  "description": "a simple chat for bunq",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress"
+  },
+  "keywords": [
+    "chat",
+    "bunq",
+    "technical",
+    "assignment"
+  ],
+  "author": "Iris van Dijken",
+  "license": "MIT"
+}
