@@ -1,5 +1,5 @@
 @import "common.css";
-@import "components.css";
+@import "components/index.css";
 @import "config.css";
 
 * {
