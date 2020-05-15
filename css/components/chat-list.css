@@ -5,6 +5,11 @@
   overflow-y: scroll;
 }
 
+h2 {
+  color: lightblue;
+  text-shadow: 1px 0px 0px #73c8e457;
+}
+
 .message-row{
   display: grid;
   grid-template-columns: 60%;

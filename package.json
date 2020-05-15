@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "a simple chat for bunq",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "cypress"
   },
@@ -13,5 +14,8 @@
     "assignment"
   ],
   "author": "Iris van Dijken",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
 }
