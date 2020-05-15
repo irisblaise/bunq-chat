@@ -13,7 +13,7 @@ h2 {
 .message-row{
   display: grid;
   grid-template-columns: 60%;
-  margin-bottom: 20px
+  margin-bottom: 20px;
 }
 
 .message-text{
